@@ -1,4 +1,6 @@
-## 스프링 지식 공유 방향
+## Squirtle_Spring (스프링 지식 공유)
+
+<img src="https://user-images.githubusercontent.com/33277588/87496163-fddc8f00-c68d-11ea-898b-9714a0c36167.png" width="300" height="300">
 
 ### 1. 목표와 대상
 
